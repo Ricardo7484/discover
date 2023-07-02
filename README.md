@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Buscando sempre progradir com conhecimento :wave: [🧑‍💻](linkedin.com/in/ricardo-silvateixeira)
+Buscando sempre progradir com conhecimento :wave: [🧑‍💻](https://www.linkedin.com/in/ricardo-silvateixeira/)
